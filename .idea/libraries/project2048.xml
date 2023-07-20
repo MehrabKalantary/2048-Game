@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="project2048">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/project2048.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
